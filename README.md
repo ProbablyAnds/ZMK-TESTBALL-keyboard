@@ -1,6 +1,6 @@
 # Custom 5x7 Dactyl Manuform with Integrated Trackball
 
-[Pinout](https://github.com/ProbablyAnds/ZMK-TESTBALL-keyboard/blob/main/Untitled.png)
+![Pinout](https://github.com/ProbablyAnds/ZMK-TESTBALL-keyboard/blob/main/Untitled.png)
 
 ## Description
 
